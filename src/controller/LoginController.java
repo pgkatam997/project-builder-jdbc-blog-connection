@@ -43,8 +43,8 @@ public class LoginController extends HttpServlet {
 			RequestDispatcher rd=this.getServletContext().getRequestDispatcher("/WEB-INF/views/loginView.jsp");
 			rd.forward(request, response);
 		}
-		*/
 		
+		*/
 		
 	
 	}
